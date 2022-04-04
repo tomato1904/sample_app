@@ -7,6 +7,10 @@ ruby '2.7.4'
 gem 'rails', '6.1.4.1'
 #hasing the password with bcrypt
 gem 'bcrypt', '3.1.13'
+
+gem 'faker',          '2.11.0'
+gem 'will_paginate',           '3.3.0'
+gem 'bootstrap-will_paginate', '1.0.0'
 #Use bootstrap sass
 gem 'bootstrap-sass', '3.4.1'
 # Use Puma as the app server
